@@ -66,7 +66,9 @@ def calc_median_temperature(inputlist):
 
 def main():
     # print("ET0735 (DevOps for AIoT) - Lab 2 - Introduction to Python")
-    print('===========')
+    print('==============')
+    print('  Exercise 6  ')
+    print('==============')
     display_main_menu()
     num_list = get_user_input()
     calc_average(num_list)
